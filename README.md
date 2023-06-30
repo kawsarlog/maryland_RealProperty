@@ -12,6 +12,9 @@ This Python script allows you to extract real property data from the Maryland St
 - [Selenium 4.9.0](https://pypi.org/project/selenium/4.9.0/)
 - [chromedriver-autoinstaller 0.4.0](https://pypi.org/project/chromedriver-autoinstaller/0.4.0/)
 
+#### Python Installation
+Install the right Python version from https://www.python.org/downloads/
+![make Sure to Enable this option](https://img001.prntscr.com/file/img001/TN-mbdzyTxqvq0Tjozh9YQ.jpeg)
 
 ## Installation
 
