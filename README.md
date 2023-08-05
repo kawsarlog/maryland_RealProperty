@@ -4,7 +4,7 @@
 [![Selenium Version](https://img.shields.io/badge/selenium-4.9.0-green.svg)](https://pypi.org/project/selenium/4.9.0/)
 [![chromedriver-autoinstaller Version](https://img.shields.io/badge/chromedriver--autoinstaller-0.4.0-orange.svg)](https://pypi.org/project/chromedriver-autoinstaller/0.4.0/)
 
-This Python script allows you to extract real property data from the Maryland State Department of Assessments and Taxation (SDAT) website. It uses Selenium, chromedriver-autoinstaller, and other modules to automate the process.
+🐍🏠 Extract real property data effortlessly from the Maryland State Department of Assessments and Taxation (SDAT) website with this Python script. 🌐 It leverages Selenium, chromedriver-autoinstaller, and other modules to automate the process seamlessly. 📊🔍
 
 ## Requirements
 
